@@ -1,4 +1,4 @@
-# Voo
+# 
 
 Ushbu loiha uzbekiston dasturchilari jahon bilan bellasha olishini isbotlash uchun yaratilmoqda.
 
