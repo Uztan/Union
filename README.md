@@ -12,4 +12,4 @@ Har qanday darajadagi har qanday turdagi dastuchilarni birlashish va o'zbek dast
 
 @MasteR_DevelopeR telegram orqali murojat qiling!
 
-#O'zbekiston!!!
+# O'zbekiston!!!
