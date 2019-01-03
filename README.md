@@ -8,8 +8,8 @@ O'zimiz shunday Framework, CMS yaratsakchi? Yaratolmaymizmi?
 
 # Albatta yarata olamiz!!!
 
-Har qanday darajadagi har qanday turdagi dastuchilarni birlashish va o'zbek dasturchilarini jahon ga olib chiqishga taklif qilaman!
+Har qanday darajadagi har qanday turdagi dastuchilarni birlashish va o'zbek dasturchilarini jahonga olib chiqishga taklif qilaman!
 
-@MasteR_DevelopeR telegram orqali murojat qiling!
+@MasteR_DevelopeR telegram orqali murojaat qiling!
 
 # O'zbekiston!!!
