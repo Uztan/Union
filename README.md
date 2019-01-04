@@ -10,6 +10,6 @@ O'zimiz shunday Framework, CMS yaratsakchi? Yaratolmaymizmi?
 
 Har qanday darajadagi har qanday turdagi dastuchilarni birlashish va o'zbek dasturchilarini jahonga olib chiqishga taklif qilaman!
 
-@MasteR_DevelopeR telegram orqali murojaat qiling!
+https://t.me/MasteR_DevelopeR
 
 # O'zbekiston!!!
